@@ -1,0 +1,417 @@
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form3.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\4mayıs sude çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\8 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\yunus.akbudak\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayımooplab2\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\16mayısçekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\OOP Klasör\OOPLAB_PROJE\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\20 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\22 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\23 mayıs çekilen\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\2haziran devam\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+D:\Users\10558656994\Desktop\OOP2LAB_PROJE - Copy\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\dayımçekilen4 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\6haziran Son\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\dayım9 haziran\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\Monster\Desktop\OOP2_PROJE_GRUP15\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe.config
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.exe
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\OOP2LAB_PROJE.pdb
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\Interop.WMPLib.dll
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.AssemblyReference.cache
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.SuggestedBindingRedirects.cache
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\Interop.WMPLib.dll
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.ResolveComReference.cache
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.About.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form1.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Form2.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.HelpScreen.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.MultiplayerServer.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Multiplayer.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Settings.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Game.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.ManageScreen.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Profile.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.Properties.Resources.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.SingUp.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.UpdateUserInfo.resources
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.GenerateResource.cache
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.exe
+C:\Users\sude\Desktop\OOP2LAB_PROJE\OOP2LAB_PROJE\obj\Debug\OOP2LAB_PROJE.pdb
